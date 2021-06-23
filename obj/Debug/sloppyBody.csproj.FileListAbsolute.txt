@@ -18,3 +18,13 @@ C:\Users\Åke\programmering(github)\sloppyBody\obj\Debug\sloppyBody.csproj.Gener
 C:\Users\Åke\programmering(github)\sloppyBody\obj\Debug\sloppyBody.csproj.CoreCompileInputs.cache
 C:\Users\Åke\programmering(github)\sloppyBody\obj\Debug\sloppyBody.exe
 C:\Users\Åke\programmering(github)\sloppyBody\obj\Debug\sloppyBody.pdb
+C:\Users\Åke\programmering(github)\sloppyBodyRevamped\bin\Debug\sloppyBody.exe.config
+C:\Users\Åke\programmering(github)\sloppyBodyRevamped\bin\Debug\sloppyBody.exe
+C:\Users\Åke\programmering(github)\sloppyBodyRevamped\bin\Debug\sloppyBody.pdb
+C:\Users\Åke\programmering(github)\sloppyBodyRevamped\obj\Debug\sloppyBody.csprojAssemblyReference.cache
+C:\Users\Åke\programmering(github)\sloppyBodyRevamped\obj\Debug\sloppyBody.Form1.resources
+C:\Users\Åke\programmering(github)\sloppyBodyRevamped\obj\Debug\sloppyBody.Properties.Resources.resources
+C:\Users\Åke\programmering(github)\sloppyBodyRevamped\obj\Debug\sloppyBody.csproj.GenerateResource.cache
+C:\Users\Åke\programmering(github)\sloppyBodyRevamped\obj\Debug\sloppyBody.csproj.CoreCompileInputs.cache
+C:\Users\Åke\programmering(github)\sloppyBodyRevamped\obj\Debug\sloppyBody.exe
+C:\Users\Åke\programmering(github)\sloppyBodyRevamped\obj\Debug\sloppyBody.pdb
