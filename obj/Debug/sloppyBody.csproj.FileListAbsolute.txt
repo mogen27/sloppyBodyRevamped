@@ -1,0 +1,20 @@
+D:\Program1\alla github projekt skall vara har\c#\csharpfolder\sloppy\sloppyBody\bin\Debug\sloppyBody.exe.config
+D:\Program1\alla github projekt skall vara har\c#\csharpfolder\sloppy\sloppyBody\bin\Debug\sloppyBody.exe
+D:\Program1\alla github projekt skall vara har\c#\csharpfolder\sloppy\sloppyBody\bin\Debug\sloppyBody.pdb
+D:\Program1\alla github projekt skall vara har\c#\csharpfolder\sloppy\sloppyBody\obj\Debug\sloppyBody.csprojAssemblyReference.cache
+D:\Program1\alla github projekt skall vara har\c#\csharpfolder\sloppy\sloppyBody\obj\Debug\sloppyBody.Form1.resources
+D:\Program1\alla github projekt skall vara har\c#\csharpfolder\sloppy\sloppyBody\obj\Debug\sloppyBody.Properties.Resources.resources
+D:\Program1\alla github projekt skall vara har\c#\csharpfolder\sloppy\sloppyBody\obj\Debug\sloppyBody.csproj.GenerateResource.cache
+D:\Program1\alla github projekt skall vara har\c#\csharpfolder\sloppy\sloppyBody\obj\Debug\sloppyBody.csproj.CoreCompileInputs.cache
+D:\Program1\alla github projekt skall vara har\c#\csharpfolder\sloppy\sloppyBody\obj\Debug\sloppyBody.exe
+D:\Program1\alla github projekt skall vara har\c#\csharpfolder\sloppy\sloppyBody\obj\Debug\sloppyBody.pdb
+C:\Users\Åke\programmering(github)\sloppyBody\bin\Debug\sloppyBody.exe.config
+C:\Users\Åke\programmering(github)\sloppyBody\bin\Debug\sloppyBody.exe
+C:\Users\Åke\programmering(github)\sloppyBody\bin\Debug\sloppyBody.pdb
+C:\Users\Åke\programmering(github)\sloppyBody\obj\Debug\sloppyBody.csprojAssemblyReference.cache
+C:\Users\Åke\programmering(github)\sloppyBody\obj\Debug\sloppyBody.Form1.resources
+C:\Users\Åke\programmering(github)\sloppyBody\obj\Debug\sloppyBody.Properties.Resources.resources
+C:\Users\Åke\programmering(github)\sloppyBody\obj\Debug\sloppyBody.csproj.GenerateResource.cache
+C:\Users\Åke\programmering(github)\sloppyBody\obj\Debug\sloppyBody.csproj.CoreCompileInputs.cache
+C:\Users\Åke\programmering(github)\sloppyBody\obj\Debug\sloppyBody.exe
+C:\Users\Åke\programmering(github)\sloppyBody\obj\Debug\sloppyBody.pdb
